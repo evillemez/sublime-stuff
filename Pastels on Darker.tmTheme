@@ -720,9 +720,10 @@
 		</dict>
     <dict>
 			<key>name</key>
-			<string>Haml: Punctuation</string>
+			<string>Haml and Sass: Punctuation</string>
 			<key>scope</key>
-			<string>punctuation.definition.tag.haml, punctuation.terminator.tag.haml, punctuation.bracket.attribute.haml</string>
+      w
+			<string>punctuation.definition.tag, punctuation.terminator.tag, punctuation.bracket.attribute</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -749,6 +750,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
+				<key>foreground</key>
+				<string>#967BD2</string>
 			</dict>
     </dict>
     <dict>
@@ -775,6 +778,19 @@
     </dict>
     <dict>
 			<key>name</key>
+			<string>Haml: Tag Id</string>
+			<key>scope</key>
+			<string>entity.name.tag.id</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#71E164</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
 			<string>Attribute Name</string>
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
@@ -784,8 +800,87 @@
 				<string>#9B456F</string>
 			</dict>
     </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Variable</string>
+			<key>scope</key>
+			<string>variable.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#71B164</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Variable declaration</string>
+			<key>scope</key>
+			<string>variable.declaration.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#71B164</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Variable declaration separator</string>
+			<key>scope</key>
+			<string>punctuation.separator.declaration.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DC322F</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Constant</string>
+			<key>scope</key>
+			<string>constant.numeric.sass, constant.other.color.sass, constant.string.sas s</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#998885</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Pseudo class</string>
+			<key>scope</key>
+			<string>entity.other.pseudo-class.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DC322F</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Default keyword</string>
+			<key>scope</key>
+			<string>keyword.other.default.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DC322F</string>
+			</dict>
+    </dict>
+    <dict>
+			<key>name</key>
+			<string>Sass: Parameter</string>
+			<key>scope</key>
+			<string>keyword.other.parameter.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#009985</string>
+			</dict>
+    </dict>
 	</array>
 	<key>uuid</key>
 	<string>343011CC-B7DF-11D9-B5C6-000D93C8BE28</string>
 </dict>
-</plist>
+?</plist>
