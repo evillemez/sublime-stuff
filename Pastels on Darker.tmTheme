@@ -352,13 +352,13 @@
 			<key>name</key>
 			<string>Attribute with Value</string>
 			<key>scope</key>
-			<string>meta.attribute-with-value</string>
+			<string>keyword.attribute-with-value</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9B456F</string>
+				<string>#AD9150</string>
 			</dict>
 		</dict>
 		<dict>
@@ -727,7 +727,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DC322F</string>
+				<string>#999999</string>
 			</dict>
     </dict>
     <dict>
@@ -762,7 +762,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#268BD2</string>
+				<string>#94A7F4</string>
 			</dict>
     </dict>
     <dict>
@@ -786,7 +786,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#71E164</string>
+				<string>#EC9E00</string>
 			</dict>
     </dict>
     <dict>
@@ -797,7 +797,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9B456F</string>
+				<string>#94A7F4</string>
 			</dict>
     </dict>
     <dict>
@@ -808,7 +808,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#71B164</string>
+				<string>#71B1B1</string>
 			</dict>
     </dict>
     <dict>
@@ -819,7 +819,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#71B164</string>
+				<string>#A1A144</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -832,7 +832,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DC322F</string>
+				<string>#777</string>
 			</dict>
     </dict>
     <dict>
@@ -854,7 +854,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DC322F</string>
+				<string>#777</string>
 			</dict>
     </dict>
     <dict>
@@ -876,7 +876,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#009985</string>
+				<string>#E1C96B</string>
 			</dict>
     </dict>
 	</array>
