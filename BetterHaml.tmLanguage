@@ -50,13 +50,6 @@
 			<string>^(?!\1  )</string>
 			<key>name</key>
 			<string>comment.block.haml</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>include</key>
-					<string>text.haml</string>
-				</dict>
-			</array>
 		</dict>
 		<dict>
 			<key>begin</key>
@@ -73,13 +66,6 @@
 			<string>^(?!\1  )</string>
 			<key>name</key>
 			<string>comment.block.haml</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>include</key>
-					<string>text.haml</string>
-				</dict>
-			</array>
 		</dict>
 		<dict>
 			<key>begin</key>
